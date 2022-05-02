@@ -1,0 +1,7 @@
+
+let 1 = "base js"
+let 2 = "base gi bush"
+let 3 = "base hub" {
+console.log(1 + 2 + 3);
+
+}
